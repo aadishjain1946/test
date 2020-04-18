@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.clr{
+    color: white;
+}
+.im{
+    width: 70%;
+}
+.im img{
+    width: 100%;
+    height: 100%;
+}
+/* @media(min-width:1050px){
+    .hid{
+        display: none;
+    }
+} */
